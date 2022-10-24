@@ -5,6 +5,10 @@
 
 Installs lerna which will manage the packaging of the both projects.
 
+### `npx lerna init`
+
+Initializes lerna.
+
 ### `npm run bootstrap`
 
 Installs all the dependencies of the both projects.
