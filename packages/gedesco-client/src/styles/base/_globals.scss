@@ -1,0 +1,21 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.center-content {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.flex-row-space-beetween {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.fullWidth {
+    width: 100%;
+}

@@ -1,0 +1,13 @@
+.app-header {
+    @extend .center-content;
+    background-color: $black;
+    color: $white;
+    height: 40px;
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+.app-table-head {
+    background-color: $ligthBlue;
+    color: $white !important;
+}
